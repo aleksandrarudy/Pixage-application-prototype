@@ -1,6 +1,6 @@
 # Pixage Application Prototype
 
-Web version
+### Web version
 
 Home page
 ![Web 1920 – 1](https://user-images.githubusercontent.com/79640332/162575055-4dfa20af-ae59-4d53-b43e-d637847ee3e4.png)
