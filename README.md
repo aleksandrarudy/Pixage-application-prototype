@@ -23,7 +23,7 @@ User Profile page
 Image page
 ![Web 1920 – 16](https://user-images.githubusercontent.com/79640332/162575123-86177dbd-c38a-4988-80d6-55c03caaf8b8.png)
 
-Mobile Version
+### Mobile Version
 
 Home page
 ![Samsung Galaxy S10 – 1](https://user-images.githubusercontent.com/79640332/162575164-ce1b46f8-85b2-4379-a501-3f7ea361af21.png)
