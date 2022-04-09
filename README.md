@@ -26,15 +26,19 @@ Image page
 ### Mobile Version
 
 Home page
+
 ![Samsung Galaxy S10 – 1](https://user-images.githubusercontent.com/79640332/162575164-ce1b46f8-85b2-4379-a501-3f7ea361af21.png)
 
 Registration page
+
 ![Samsung Galaxy S10 – 3](https://user-images.githubusercontent.com/79640332/162575167-a1957f83-bfdb-4edf-af7d-8ca407ec4f56.png)
 
 Main page
+
 ![Samsung Galaxy S10 – 2](https://user-images.githubusercontent.com/79640332/162575177-98cfba28-c187-4a30-a58f-2d031e487b07.png)
 
 User Profile
+
 ![Samsung Galaxy S10 – 5](https://user-images.githubusercontent.com/79640332/162575182-e74ca008-ee9e-4576-b65b-90be1b8f3c9e.png)
 
 ![Samsung Galaxy S10 – 7](https://user-images.githubusercontent.com/79640332/162575195-53799387-1351-4d52-8685-c0f13b9c997b.png)
@@ -44,4 +48,5 @@ User Profile
 ![Samsung Galaxy S10 – 8](https://user-images.githubusercontent.com/79640332/162575199-18d4dcff-0eb2-4a63-ab6f-4522f5b7ccb5.png)
 
 Image page (scrollable)
+
 ![Samsung Galaxy S10 – 10](https://user-images.githubusercontent.com/79640332/162575221-c93b866c-f370-461c-93f8-b9464d4e432d.png)
